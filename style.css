@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: rgb(255, 206, 116);
+}
+
+#project {
+    background-color: rgb(255, 206, 116);
+}
+
+#footer {
+    letter-spacing: 1px;
+    width: 100%;
+    height: 50px;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
